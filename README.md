@@ -1,16 +1,68 @@
-## Hi there 👋
 
-<!--
-**ArtemGalkovsky/ArtemGalkovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Artem — Java Backend Developer
 
-Here are some ideas to get you started:
+🚀 Passionate about backend development, clean code, and continuous learning.  
+☕ Java & Spring enthusiast  
+🐳 Docker enjoyer  
+🗄 PostgreSQL lover  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+
+- Junior Java Backend Developer  
+- Learning Spring ecosystem, testing, architecture  
+- Enjoy solving real-world problems  
+- Always open to new challenges and technologies  
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Java 17  
+- Spring Boot 3, Spring Framework 6 
+- Spring Security, JWT  
+- Hibernate 6 / JPA  
+- PostgreSQL  
+- Liquibase  
+
+### Testing
+- JUnit 5  
+- Mockito 
+
+### Frontend (Basics)
+- React  
+- JavaScript  
+- CSS Modules  
+
+### Tools
+- Git, GitHub  
+- Docker  
+- Postman  
+- IntelliJ IDEA  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemGalkovsky&show_icons=true&theme=react&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtemGalkovsky&theme=react&hide_border=true)
+
+---
+
+## 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemGalkovsky&layout=compact&theme=react&hide_border=true)
+
+---
+
+## 📫 Contact Me
+
+- Telegram: https://t.me/liteop  
+- Email: artemgalkovskyyy@gmail.com  
+
+---
+
+⭐️ *Thanks for visiting my GitHub profile!*
